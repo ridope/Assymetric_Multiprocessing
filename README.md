@@ -8,7 +8,7 @@ The instructions hereunder compose and run a dual core on an Terasic DE10-Lite b
 
 Required materials are a PC with Ubuntu (18.04 LTS, 20.04 LTS, 22.04 LTS), a USB-UART cable, and a DE10-Lite board.
 
-![Super_soc](https://github.com/ridope/Asymetric-Multi-Processing/assets/105911842/4d4b5c82-2258-41b2-b536-4ac36e24b413)
+[Super_soc](https://github.com/ridope/Asymetric-Multi-Processing/assets/105911842/4d4b5c82-2258-41b2-b536-4ac36e24b413)
 ## Prerequisites & Environment Setup
 1) Choose a directory X/X/X and create a folder named "litex_inst." Within this folder, include the following two folders:
 - litex_root: https://drive.google.com/file/d/1tc-WIgzB8HCitjfIWSrWUmteWkeCNCHD/view?usp=sharing
