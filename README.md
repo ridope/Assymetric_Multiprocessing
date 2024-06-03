@@ -2,7 +2,7 @@
 
 Scratchy is an open-source tunable architecture for composing lightweight scratchpad-based multi-RISC-V SoCs. 
 This repository implements a dual-core generator of a Scratchy platform.
-
+For more information about Scratchy click ![here](https://hal.science/hal-04509310/document) .
 The instructions hereunder compose and run a dual core on an Terasic DE10-Lite board with a MAX10 Intel FPGA.
 
 
